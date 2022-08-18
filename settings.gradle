@@ -1,0 +1,3 @@
+include ':loadingrecyclerview'
+include ':app'
+rootProject.name = "LoadingRecyclerView"
